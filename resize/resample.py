@@ -35,9 +35,6 @@ class resample:
         colSize = int(originalWidth * fx)
         rowSize = int(originalHeight * fy)
 
-        print(originalWidth, originalHeight)
-        print(colSize, rowSize)
-
         newImage = np.ones((rowSize, colSize), np.uint8) * 255  # new blank image
 
         for x in range(rowSize):
