@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/resize/resample.py" line="35" />
+    <bookmark url="file://$PROJECT_DIR$/resize/resample.py" line="30" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a0604fad-2e10-44a2-b009-8dc09c5e6a6d" name="Default" comment="">
@@ -19,8 +19,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/resize/resample.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="35" column="42" selection-start-line="35" selection-start-column="42" selection-end-line="35" selection-end-column="42" />
+            <state relative-caret-position="281">
+              <caret line="66" column="36" lean-forward="true" selection-start-line="66" selection-start-column="36" selection-end-line="66" selection-end-column="36" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
@@ -29,17 +29,33 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/requirements.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/output/resize/cell2bilinear0205-004025.jpg">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/output/resize/2/output1.txt">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/output/resize/cell2bilinear0205-003538.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/output/resize/cell2bilinear0205-003624.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/output/resize/cell2bilinear0205-003653.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/output/resize/cell2bilinear0205-003309.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/output/resize/cell2bilinear0205-003237.jpg">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -53,15 +69,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cells.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resize/interpolation.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+            <state relative-caret-position="136">
+              <caret line="8" column="42" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -94,8 +105,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="169" />
-    <option name="y" value="73" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
@@ -123,7 +134,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -151,6 +161,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -290,111 +301,26 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/output/cellct/cell_stats_1003-162514.jpg" />
-    <entry file="file://$PROJECT_DIR$/output/cellct/cell_stats_1003-164901.jpg" />
-    <entry file="file://$PROJECT_DIR$/output/cellct/binary_image_1003-164901.jpg" />
-    <entry file="file://$PROJECT_DIR$/output/cellct/cell_stats_1003-171423.jpg" />
-    <entry file="file://$PROJECT_DIR$/output/cellct/binary_image_1003-171422.jpg" />
-    <entry file="file://$PROJECT_DIR$/output/cellct/binary_image_1004-102826.jpg" />
-    <entry file="file://$USER_HOME$/Library/Caches/PyCharmCE2017.2/python_stubs/788992711/builtins.py" />
-    <entry file="file://$PROJECT_DIR$/region_analysis/cell_counting.py" />
-    <entry file="file://$PROJECT_DIR$/report.md" />
-    <entry file="file://$PROJECT_DIR$/region_analysis/binary_image.py" />
-    <entry file="file://$PROJECT_DIR$/dip_hw1_region_analysis.py" />
-    <entry file="file://$PROJECT_DIR$/output/resize/cell2nearest_neighbor0928-171901.jpg" />
-    <entry file="file://$PROJECT_DIR$/output/resize/1/output1.txt" />
-    <entry file="file://$PROJECT_DIR$/output/resize/1/output2.txt" />
-    <entry file="file://$PROJECT_DIR$/output/resize/cell2bilinear0928-172003.jpg" />
-    <entry file="file://$PROJECT_DIR$/output/resize/cell2bilinear0928-174619.jpg" />
-    <entry file="file://$PROJECT_DIR$/result.png" />
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="431">
-            <caret line="38" column="3" selection-start-line="38" selection-start-column="3" selection-end-line="38" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="9" column="27" lean-forward="true" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dip_hw1_resize.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="61" column="13" selection-start-line="61" selection-start-column="13" selection-end-line="61" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/resize/cell2nearest_neighbor0203-141138.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/resize/cell2nearest_neighbor0203-141053.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/resize/cell2nearest_neighbor0203-141302.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/resize/2/output1.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/resize/2/output2.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/resize/cell2nearest_neighbor0203-141510.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/resize/cell2nearest_neighbor0203-142546.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/resize/cell2nearest_neighbor0203-142638.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hSN9aB3.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cell2.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/resize/wallnearest_neighbor0203-142925.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/resize/wallnearest_neighbor0203-143057.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/resize/wallnearest_neighbor0203-143539.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/resize/wallnearest_neighbor0203-144009.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/resize/wallnearest_neighbor0203-143855.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/resize/wallnearest_neighbor0203-143709.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/resize/wallnearest_neighbor0203-144105.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/resize/wallnearest_neighbor0203-144152.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/resize/wallnearest_neighbor0203-144211.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/resize/wallnearest_neighbor0203-145209.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/resize/wallnearest_neighbor0203-144243.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/resize/wallnearest_neighbor0203-145656.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/output/resize/cell2nearest_neighbor0203-142638.jpg" />
+    <entry file="file://$PROJECT_DIR$/hSN9aB3.png" />
+    <entry file="file://$PROJECT_DIR$/output/resize/wallnearest_neighbor0203-142925.jpg" />
+    <entry file="file://$PROJECT_DIR$/output/resize/wallnearest_neighbor0203-143057.jpg" />
+    <entry file="file://$PROJECT_DIR$/output/resize/wallnearest_neighbor0203-143539.jpg" />
+    <entry file="file://$PROJECT_DIR$/output/resize/wallnearest_neighbor0203-144009.jpg" />
+    <entry file="file://$PROJECT_DIR$/output/resize/wallnearest_neighbor0203-143855.jpg" />
+    <entry file="file://$PROJECT_DIR$/output/resize/wallnearest_neighbor0203-143709.jpg" />
+    <entry file="file://$PROJECT_DIR$/output/resize/wallnearest_neighbor0203-144105.jpg" />
+    <entry file="file://$PROJECT_DIR$/output/resize/wallnearest_neighbor0203-144152.jpg" />
+    <entry file="file://$PROJECT_DIR$/output/resize/wallnearest_neighbor0203-144211.jpg" />
+    <entry file="file://$PROJECT_DIR$/output/resize/wallnearest_neighbor0203-145209.jpg" />
+    <entry file="file://$PROJECT_DIR$/output/resize/wallnearest_neighbor0203-144243.jpg" />
+    <entry file="file://$PROJECT_DIR$/output/resize/wallnearest_neighbor0203-145656.jpg" />
+    <entry file="file://$PROJECT_DIR$/output/resize/wallnearest_neighbor0203-145916.jpg" />
+    <entry file="file://$PROJECT_DIR$/output/resize/wallnearest_neighbor0203-145949.jpg" />
+    <entry file="file://$PROJECT_DIR$/wall.png" />
+    <entry file="file://$PROJECT_DIR$/output/resize/cellsnearest_neighbor0203-150442.jpg" />
+    <entry file="file://$PROJECT_DIR$/output/resize/cellsnearest_neighbor0203-150306.jpg" />
+    <entry file="file://$PROJECT_DIR$/output/resize/cellsnearest_neighbor0203-160154.jpg" />
     <entry file="file://$PROJECT_DIR$/requirements.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -402,38 +328,101 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/output/resize/wallnearest_neighbor0203-145916.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/resize/wallnearest_neighbor0203-145949.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wall.png">
-      <provider selected="true" editor-type-id="images" />
+    <entry file="file://$PROJECT_DIR$/output/resize/2/output1.txt">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/cells.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/output/resize/cellsnearest_neighbor0203-150442.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/resize/cellsnearest_neighbor0203-150306.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/resize/cellsnearest_neighbor0203-160154.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/resize/interpolation.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+        <state relative-caret-position="136">
+          <caret line="8" column="42" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="42" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/output/resize/cell2bilinear0204-232114.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/resize/2/output2.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/resize/cell2bilinear0204-232352.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/resize/cell2bilinear0204-232733.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/resize/cell2bilinear0204-232818.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/resize/cell2bilinear0204-232843.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/resize/cell2bilinear0204-232957.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/resize/cell2bilinear0204-235222.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/resize/cell2bilinear0204-235109.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/resize/cell2bilinear0205-000730.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/resize/cell2bilinear0204-235338.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/resize/cell2bilinear0204-235254.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/resize/cell2bilinear0205-002526.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/resize/cell2bilinear0205-002011.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/resize/cell2bilinear0205-002247.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/resize/cell2bilinear0205-002502.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/resize/cell2bilinear0205-003038.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/resize/cell2bilinear0205-002857.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/resize/cell2bilinear0205-003237.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/resize/cell2bilinear0205-003309.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/resize/cell2bilinear0205-003538.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/resize/cell2bilinear0205-003624.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/resize/cell2bilinear0205-003712.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/resize/cell2bilinear0205-003653.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/resize/cell2bilinear0205-004025.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cell2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/resize/resample.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="35" column="42" selection-start-line="35" selection-start-column="42" selection-end-line="35" selection-end-column="42" />
+        <state relative-caret-position="281">
+          <caret line="66" column="36" lean-forward="true" selection-start-line="66" selection-start-column="36" selection-end-line="66" selection-end-column="36" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>
