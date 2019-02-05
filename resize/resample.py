@@ -73,7 +73,7 @@ class resample:
                 x1 = int(c * ratioX) #round down, left of x.
                 x2 = min(math.ceil(c * ratioX), originalWidth-1) #round up to next whole, right of x
                 y1 = min(math.ceil(r * ratioY), originalHeight-1) #round up to next whole, under of y
-                y2 = min(int(r * ratioY),  originalHeight-1) #round down, top of y
+                y2 = int(r * ratioY) #round down, top of y
 
                 Q12 = image[int(y2), int(x1)]
                 Q22 = image[int(y2), int(x2)]
@@ -98,9 +98,5 @@ class resample:
                 else:
                     P = ((y2-y)/(y2-y1))*R1 + ((y-y1)/(y2-y1))*R2
 
-                newImage[r,c] = P
-
-
-
-
+                newImage[r, c] = P
         return newImage
